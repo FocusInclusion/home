@@ -1,0 +1,453 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+body{
+    background-color: rgb(47, 47, 47);
+}
+
+.texto{
+    font-family: 'Ramabhadra', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.img1{
+    position: absolute;
+    left: 83%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img2{
+    position: absolute;
+    left: 63%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img3{
+    position: absolute;
+    left: 43%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img4{
+    position: absolute;
+    left: 23%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img5{
+    position: absolute;
+    left: 3%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+*{
+    margin: -8;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: white;
+}
+#start{
+    background-color: rgb(245, 151, 10);
+    width: 100%;
+    height: 80px;
+    margin: -8px;
+    font-size:medium;
+    margin-top: -30px;
+}
+#start *{
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+#start *:hover{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#start ul{
+    display: flex;
+    padding-left: 1450px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+}
+#start ul li{
+    list-style-type: none;
+    padding-right: 40px;
+}
+#bodystyle{
+    background-color: rgb(255, 255, 255);
+
+}
+#body1{
+    width: 100%;
+    margin: -8px;
+    position: relative;
+    height: 750px;
+}
+#body1 video{
+    width: 100%;
+    height: 110%;
+    object-fit: cover;
+}
+
+#body1 p{
+    font-size: 100px;
+    width: 1000px;
+    height: -200px;
+    color: white;
+    position: relative;
+    top: -700px;
+    left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bb8{
+    background-color: rgb(54, 60, 77);
+}
+#espacinho{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
+#paia{
+    height: 1000px;
+    width: 120px;
+}
+#body2 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 40px;
+    
+}
+#body3{
+    width: 100%;
+    height: 450px;
+}
+#body3 p{
+    font-family: 'Jost', sans-serif;
+    font-style:inherit;
+    font-size: 35px;
+    text-align:justify;
+    width: 1500px;
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: 40px;
+    
+}
+
+#body3 img{
+    padding-left: 1140px;
+    width: 750px;
+    position: relative;
+    top: -490px;
+    right: 170px;
+    height: 100%;
+    border: 5px solid rgba(45, 42, 119, 0.349);
+    border-radius: 10px;
+}
+#menu{
+    background-color: rgb(170, 112, 5);
+    margin: -8px;
+    height: 150px;
+    width: 100%;
+}
+#body{
+    background-color: gray;
+}
+body{
+    overflow-x: hidden;
+}
+#plataforma1 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 50px;
+    color: white;
+}
+#plataforma2{
+    width: 100%;
+    height: 550px;
+}
+#plataforma2 img{
+        padding-left: 1140px;
+        width: 700px;
+        position: relative;
+        top: -650px;
+        right: 100px;
+        display: inline-block;
+}
+#plataforma2 p{
+    font-family: 'Jost', sans-serif;
+    font-style:inherit;
+    font-size: 37px;
+    text-align:justify;
+    width: 900px;
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: 60px;
+    color: white;
+}
+#plataforma2 a{
+    right: -1290px;
+    background-color: rgba(255, 105, 5, 0.555);
+    border-radius: 40px; 
+    color: white;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    top: -650px;
+    }
+    #plataforma2 a:hover{
+        background-color: rgba(255, 105, 5, 0.808);
+        border-radius: 40px; 
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        position: relative;
+        }
+#plataforma3{
+    width: 100%;
+    height: 550px;
+}
+#plataforma31 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 880px;
+    color: white;
+}
+#plataforma3 img{
+    width: 750px;
+    position: relative;
+    top: -690px;
+    right: 100px;
+    display: inline-block;
+    padding-left: 190px;
+}
+
+#plataforma3 p{
+font-family: 'Jost', sans-serif;
+font-style:inherit;
+font-size: 37px;
+text-align:justify;
+width: 900px;
+height: 100%;
+position: relative;
+top: -45px;
+left: 100px;
+color: white;
+padding-left: 800px;
+
+}
+#plataforma3 a{
+    left: -630px;
+    background-color: rgba(255, 105, 5, 0.555);
+    border-radius: 40px; 
+    color: white;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    top: -637px;
+    }
+    #plataforma3 a:hover{
+        background-color: rgba(255, 105, 5, 0.808);
+        border-radius: 40px; 
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        position: relative;
+        }
+#plataforma4{
+    width: 100%;
+    height: 550px;
+}
+#plataforma41 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 100px;
+    color: white;
+}
+#plataforma4 img{
+    padding-left: 1080px;
+    width: 750px;
+    position: relative;
+    top: -700px;
+    right: 10px;
+}
+
+#plataforma4 p{
+font-family: 'Jost', sans-serif;
+font-style:inherit;
+font-size: 37px;
+text-align:justify;
+width: 900px;
+height: 100%;
+position: relative;
+top: 0px;
+left: 100px;
+color: white;
+}
+#plataforma4 a{
+    right: -1320px;
+    background-color: rgba(255, 105, 5, 0.555);
+    border-radius: 40px; 
+    color: white;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    top: -700px;
+    }
+    #plataforma4 a:hover{
+        background-color: rgba(255, 105, 5, 0.808);
+        border-radius: 40px; 
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        position: relative;
+        }
+#plataforma5{
+    width: 100%;
+    height: 550px;
+
+}
+#plataforma51 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 880px;
+    color: white;
+
+}
+#plataforma5 img{
+    width: 800px;
+    position: relative;
+    top: -670px;
+    right: 150px;
+    display: inline-block;
+    padding-left: 190px;
+  
+}
+#plataforma5 p{
+    font-family: 'Jost', sans-serif;
+    font-style:inherit;
+    font-size: 37px;
+    text-align:justify;
+    width: 900px;
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: 100px;
+    color: white;
+    padding-left: 800px;
+}
+#plataforma5 a{
+    left: -700px;
+    background-color: rgba(255, 105, 5, 0.555);
+    border-radius: 40px; 
+    color: white;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    top: -615px;
+    }
+    #plataforma5 a:hover{
+        background-color: rgba(255, 105, 5, 0.808);
+        border-radius: 40px; 
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        position: relative;
+        }
+#plataforma6{
+    width: 100%;
+}
+#plataforma61 p{
+    font-family: 'Josefin Sans', 'bold', sans-serif;
+    font-size: 70px;
+    width: 1100px;
+    height: 100%;
+    text-align:justify;
+    padding-left: 100px;
+    color: white;
+}
+#plataforma6 img{
+    padding-left: 1100px;
+    width: 680px;
+    position: relative;
+    top: -450px;
+    right: 80px;
+}
+#plataforma6 p{
+font-family: 'Jost', sans-serif;
+font-style:inherit;
+font-size: 35px;
+text-align:justify;
+width: 900px;
+height: 100%;
+position: relative;
+top: 0px;
+left: 100px;
+color: white;
+}
+#plataforma6 a{
+    right: -1260px;
+    background-color: rgba(255, 105, 5, 0.555);
+    border-radius: 40px; 
+    color: white;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 35px;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    top: -445px;
+}
+    #plataforma6 a:hover{
+        background-color: rgba(255, 105, 5, 0.808);
+        border-radius: 40px; 
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        position: relative;
+        }
