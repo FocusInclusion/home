@@ -11,7 +11,6 @@ body{
     overflow-x: hidden;
 
 }
-
 .h1 *{
     color: #FFBC4E;
 }
@@ -145,20 +144,20 @@ body{
 
 }
 .eminem{
-        background-image: url(../img/terno2.jfif);
+        background-image: url(../img/eminem.jpg);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-size: contain;
+
     width: 12000px;
     background-color: #ffffff;
-    background-position: 700px;
-    top: 0px;
-    height: 750px;
+    background-position: 791px;
+    top: 100px;
     
 }
 #zero2{
     width: 101%;
-    height: 800px;
+    height: 1200px;
     background-color: #ffffff;
     margin-left: -8px;
     margin-top: -10px;
@@ -289,12 +288,48 @@ body{
     transition: 500ms ease 100ms;
     margin-top: 80px;
 }
+#kk{
+    width: 101%;
+    height: 30px;
+    margin-left: -8px;
+    background-color:#FFBC4E;
+}
+#MUITA-GRANA-brincadeira {
+    height: 300px;
+}
 
+#MUITA-GRANA-brincadeira p{
+    font-size: 85px;
+    width: 900px;
+    color:#000000;
+    position: absolute;
+    left: 26%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    text-decoration: underline;
+}
+#batman a{
+    font-size: 90px;
+    width: 500px;
+    margin-top: 1000px;
+    background-color: #FFBC4E;
+    text-decoration-color:#ffffff;
+    position: absolute;
+    left: 37%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    transition: 500ms ease 100ms;
+}
+#batman a:hover{
+    font-size: 100px;
+    width: 550px;
+    background-color: #FFBC4E;
+    text-decoration-color:#ffffff;
+}  
 #zer3{
     width: 101%;
-    height: 500px;
-    background-color: #FFBC4E;
-    background-color: #FFBC4E;
+    height: 1500px;
+    background-color: #ffffff;
     margin-left: -8px;
     margin-top: -10px;
 }
@@ -369,138 +404,122 @@ body{
     position: absolute;
 
 }
-#slim p{
-    font-size: 19px;
-    padding-left: 150px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 300px;
-}
-#shady p{
-    font-size: 19px;
-    padding-left: 150px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 480px;
-
-}
-#rihanna{
-        width: 101%;
-        height: 900px;
-        background-color: #ffffff;
-        margin-left: -8px;
-        margin-top: -10px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        
-}
-#Modrić p{
-    font-size: 55px;
-    width: 400px;
-    color: #FFBC4E;
-    position: absolute;
-    top: 270px;
-    left: 150px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: justify;
-    text-decoration: underline;
-}
-#Ronaldo p{
-    font-size: 19px;
-    left: 100px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 450px;
-}
-#SIUUU p{
-    font-size: 19px;
-    left: 100px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 630px;
-
-}
-
-#Cristiano p{
-    font-size: 30px;
+#toy p{
+    font-size: 100px;
     width: 600px;
     color: #FFBC4E;
     position: absolute;
-    margin-top: 370px;
-    left: 105px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: justify;
-}
-#Curiosidades p{
-    font-size: 90px;
-    width: 700px;
-    color: black;
-    position: absolute;
     margin-top: 150px;
-    left: 690px;
+    left: 750px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
     text-decoration: underline;
     font-style: bold;
 }
-#Casemiro p{
-    font-size: 19px;
-    left: 750px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 450px;
-}
-#Ronaldinho p{
-    font-size: 19px;
-    left: 750px;
-    position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 630px;
 
-}
-
-#Messi p{
-    font-size: 30px;
-    width: 600px;
-    color: #FFBC4E;
+#melhor P{
+    font-size: 23.5px;
+    width: 450px;
     position: absolute;
-    margin-top: 370px;
-    left: 755px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 400px;
+    margin-top: 400px;
     text-align: justify;
 }
-#Benzema p{
-    font-size: 19px;
-    left: 1350px;
-    position: absolute;
+#que p{
+    font-size: 23.5px;
     width: 450px;
-    text-align:justify;
-    margin-top: 450px;
-}
-#Vini_Jr p{
-    font-size: 19px;
-    left: 1350px;
     position: absolute;
-    width: 450px;
-    text-align:justify;
-    margin-top: 630px;
-
-}
-
-#Mbappé p{
-    font-size: 30px;
-    width: 600px;
-    color: #FFBC4E;
-    position: absolute;
-    margin-top: 370px;
-    left: 1355px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 400px;
+    margin-top: 750px;
     text-align: justify;
+}
+#como_treinar_seu_dragão p{
+    font-size: 23.5px;
+    width: 450px;
+    position: absolute;
+    left: 1140px;
+    margin-top: 400px;
+    text-align: justify;
+}
+
+#MDS img{
+    width: 350px;
+    position: absolute;
+    left: 5%;
+    margin-top: 50px;
+    transition: 500ms ease 100ms;
+
+}
+#QUE img{
+    width: 350px;
+    position: absolute;
+    left: 41%;
+    margin-top: 50px;
+    transition: 500ms ease 100ms;
+
+}
+#ISSO img{
+    width: 350px;
+    position: absolute;
+    left: 75%;
+    margin-top: 50px;
+    transition: 500ms ease 100ms;
+
+}
+#MEU img{
+    width: 350px;
+    position: absolute;
+    left: 5%;
+    margin-top: 500px;
+    transition: 500ms ease 100ms;
+
+}
+#FILHO img{
+    width: 350px;
+    position: absolute;
+    left: 41%;
+    margin-top: 500px;
+    transition: 500ms ease 100ms;
+
+}
+#CALMA img{
+    width: 350px;
+    position: absolute;
+    left: 75%;
+    margin-top: 500px;
+    transition: 500ms ease 100ms;
+
+}
+#MDS img:hover{
+    width: 400px;
+    opacity: 50%;
+
+
+}
+#QUE img:hover{
+    width: 400px;
+    opacity: 50%;
+
+
+}
+#ISSO img:hover{
+    width: 400px;
+    opacity: 50%;
+
+}
+#MEU img:hover{
+    width: 400px;
+    opacity: 50%;
+
+
+}
+#FILHO img:hover{
+    width: 400px;
+    opacity: 50%;
+
+
+}
+#CALMA img:hover{
+    width: 400px;
+    opacity: 50%;
 }
