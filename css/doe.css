@@ -299,7 +299,7 @@ body{
 }
 
 #MUITA-GRANA-brincadeira p{
-    font-size: 85px;
+    font-size: 55px;
     width: 900px;
     color:#000000;
     position: absolute;
@@ -311,9 +311,10 @@ body{
 #batman a{
     font-size: 90px;
     width: 500px;
-    margin-top: 1000px;
+    margin-top: 150px;
     background-color: #FFBC4E;
-    text-decoration-color:#ffffff;
+    color: #000000;
+    
     position: absolute;
     left: 37%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -322,14 +323,14 @@ body{
 }
 #batman a:hover{
     font-size: 100px;
-    width: 550px;
-    background-color: #FFBC4E;
-    text-decoration-color:#ffffff;
+    background-color: #000000;
+   color:#FFBC4E;
+   align-self: center;
 }  
 #zer3{
     width: 101%;
-    height: 1500px;
-    background-color: #ffffff;
+    height: 700px;
+    background-color: #FFBC4E;
     margin-left: -8px;
     margin-top: -10px;
 }
@@ -441,85 +442,98 @@ body{
     margin-top: 400px;
     text-align: justify;
 }
+#k7{
+    height: 500px;
+    background-color: #ffffff;
+}
 
 #MDS img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 5%;
-    margin-top: 50px;
+    left: 0.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
+    object-fit: cover;
+    border-radius: 50%;
 
 }
 #QUE img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 41%;
-    margin-top: 50px;
+    left: 17.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
-
+    object-fit: cover;
+    border-radius: 50%;
 }
 #ISSO img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 75%;
-    margin-top: 50px;
+    left: 34.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
-
+    object-fit: cover;
+    border-radius: 50%;
 }
 #MEU img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 5%;
-    margin-top: 500px;
+    left: 53.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
-
+    object-fit: cover;
+    border-radius: 50%;
 }
 #FILHO img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 41%;
-    margin-top: 500px;
+    left: 70.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
-
+    object-fit: cover;
+    border-radius: 50%;
 }
 #CALMA img{
-    width: 350px;
+    width: 220px;
     position: absolute;
-    left: 75%;
-    margin-top: 500px;
+    left: 87.5%;
+    margin-top: -125px;
     transition: 500ms ease 100ms;
-
+    object-fit: cover;
+    border-radius: 50%;
 }
 #MDS img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
 
 
 }
 #QUE img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
 
 
 }
 #ISSO img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
+
 
 }
 #MEU img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
 
 
 }
 #FILHO img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
 
 
 }
 #CALMA img:hover{
-    width: 400px;
-    opacity: 50%;
+    opacity: 70%;
+    width: 250px;
+
 }

@@ -316,6 +316,17 @@ color: white;
     font-size: 17px;
     transition: 500ms ease 100ms;
 }
+#rachamos-o-bico-DEMAIS-slk p{
+    color: black;
+    font-size: 50px;
+    transition: 500ms ease 100ms;
+    margin-top: 65px;
+    padding-left: 45%;
+    font-weight: bold;
+    position: absolute;
+    filter: drop-shadow(5px 5px 5px rgb(255, 255, 255));
+
+}
 #zer0 ul{
     display: flex;
     padding-left: 100px;

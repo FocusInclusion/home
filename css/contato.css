@@ -496,7 +496,8 @@ body{
     position: absolute;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    border-color: #ffffff00;
+    border-color: #000000;
+    border-width: 2.5px;
 
 }
 

@@ -1,0 +1,774 @@
+*{
+    margin: -8;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: white;
+}
+#bodystyle{
+    background-color: gray;
+}
+body{
+    overflow-x: hidden;
+
+}
+.h1 *{
+    color: #FFBC4E;
+}
+#zer0{
+    width: 101%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    margin-left: -8px;
+    margin-top: -22px;
+}
+#zer0 *{
+    color: white;
+    font-size: 17px;
+    transition: 500ms ease 100ms;
+}
+#zer0 ul{
+    display: flex;
+    padding-left: 100px;
+    width: 200px;
+    position: relative;
+    top: 20px;
+}
+#zer0  ul li{
+    list-style-type: none;
+    padding-right: 70px;
+}
+#dinheiro1 img{
+    width: 70px;
+    position: absolute;
+    left: 50%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#dinheiro2 img{
+    width: 70px;
+    position: absolute;
+    left: 55%;
+    transition: 500ms ease 100ms;
+    margin-top: 90px;
+}
+
+#dinheiro3 img{
+    width: 70px;
+    position: absolute;
+    left: 60%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#dinheiro4 img{
+    width: 70px;
+    position: absolute;
+    left: 65%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#dinheiro5 img{
+    width: 70px;
+    position: absolute;
+    left: 50%;
+    transition: 500ms ease 100ms;
+    margin-top: 150px;
+}
+
+#dinheiro6 img{
+    width: 70px;
+    position: absolute;
+    left: 55%;
+    transition: 500ms ease 100ms;
+    margin-top: 160px;
+}
+#dinheiro8 img{
+    width: 70px;
+    position: absolute;
+    left: 60%;
+    transition: 500ms ease 100ms;
+    margin-top: 160px;
+}
+#dinheiro9 img{
+    width: 70px;
+    position: absolute;
+    left: 65%;
+    transition: 500ms ease 100ms;
+    margin-top: 160px;
+}
+
+#zero1{
+    width: 101%;
+    height: 150px;
+    background-color: #FFBC4E;
+    background-color: #FFBC4E;
+    margin-left: -8px;
+}
+#ceguinho video{
+    width: 101%;
+    margin-left: -8px;
+    object-fit: cover;
+    height: 770px;
+    background-attachment: scroll;
+
+}
+#ii p{
+    font-size: 110px;
+    width: 700px;
+    color: rgb(255, 255, 255);;
+    position: absolute;
+    top: 240px;
+    left: 32%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+}
+#h1 *{
+    color: #FFBC4E
+}
+#i p{
+    font-size: 30px;
+    width: 500px;
+    color: rgb(255, 255, 255);;
+    position: absolute;
+    top: 590px;
+    left: 37%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+
+}
+.eminem{
+        background-image: url(../img/eminem.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: contain;
+
+    width: 12000px;
+    background-color: #ffffff;
+    background-position: 791px;
+    top: 100px;
+    
+}
+#zero2{
+    width: 101%;
+    height: 2100px;
+    background-color: #000000;
+    margin-left: -8px;
+    margin-top: -10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.peralta{
+    width: 101%;
+    margin-left: -8px;
+    height: 750px;
+    background-image: url(../img/pexels-shvets-production-7516363_edited.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    margin-top: 2000px;
+}
+#ele p{
+    font-size: 110px;
+    width: 700px;
+    color: rgb(255, 255, 255);;
+    position: absolute;
+    top: 240px;
+    left: 32%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+}
+#gosta p{
+    font-size: 30px;
+    width: 500px;
+    color: rgb(255, 255, 255);;
+    position: absolute;
+    top: 590px;
+    left: 37%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+
+}
+#ixi p{
+    font-size: 110px;
+    width: 700px;
+    color: #FFBC4E;
+    position: absolute;
+    top: 1600px;
+    left: 32%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+}
+#iixi p{
+    font-size: 20px;
+    width: 1000px;
+    color: rgb(255, 255, 255);;
+    position: absolute;
+    top: 2000px;
+    left: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0, 0.800));
+
+
+}
+
+
+#insta1 img{
+    object-fit: cover;
+     width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 82.5%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#twitter1 img{
+    object-fit: cover;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 85%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#zapzap1 img{
+    object-fit: cover;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 87.5%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#koo1 img{
+    object-fit: cover;
+    width: 65px;
+    border-radius: 50%;
+    height: 65px;
+    position: absolute;
+    left: 89%;
+    transition: 500ms ease 100ms;
+    margin-top: 57.5px;
+}
+
+#face1 img{
+    object-fit: cover;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 92.5%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#pinterest1 img{
+    object-fit: cover;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 95%;
+    transition: 500ms ease 100ms;
+    margin-top: 80px;
+}
+
+#zer3{
+    width: 101%;
+    height: 500px;
+    background-color: #FFBC4E;
+    background-color: #FFBC4E;
+    margin-left: -8px;
+    margin-top: -10px;
+}
+#zer4{
+    width: 101%;
+    height: 300px;
+    background-color: #000000;
+    background-color: #000000;
+    margin-left: -8px;
+    margin-top: -10px;
+}
+#zer5{
+    width: 101%;
+    height: 300px;
+    background-color: #ffffff;
+    margin-left: -8px;
+    margin-top: -10px;
+}
+#demitir p{
+    color: white;
+    font-size: 16px;
+    padding-left: 20%;
+    position: absolute;
+    margin-top: 110px;
+}
+#moisés p{
+    color: white;
+    font-size: 16px;
+    padding-left: 20%;
+    margin-top: 150px;
+    position: absolute;
+
+}
+#maldade p{
+    color: white;
+    font-size: 16px;
+    padding-left: 20%;
+    margin-top: 190px;
+    position: absolute;
+
+}
+#test1 p{
+    font-size: 16px;
+    padding-left: 25%;
+    position: absolute;
+    margin-top: -250px;
+}
+#test2 p{
+    font-size: 16px;
+    padding-left: 25%;
+    margin-top: -210px;
+    position: absolute;
+
+}
+#test3 p{
+    font-size: 16px;
+    padding-left: 25%;
+    margin-top: -70px;
+    position: absolute;
+
+}
+#test4 p{
+    font-size: 16px;
+    padding-left: 50%;
+    position: absolute;
+    margin-top: -250px;
+}
+#test5 p{
+    font-size: 16px;
+    padding-left: 50%;
+    margin-top: -70px;
+    position: absolute;
+
+}
+#toy p{
+    font-size: 100px;
+    width: 400px;
+    color: #FFBC4E;
+    position: absolute;
+    margin-top: 150px;
+    left: 750px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    text-decoration: underline;
+    font-style: bold;
+}
+#Story P{
+    font-size: 25px;
+    width: 850px;
+    position: absolute;
+    margin-top: 300px;
+    left: 540px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-style: bold;
+}
+#é P{
+    font-size: 15.5px;
+    position: absolute;
+    left: 490px;
+    margin-top: 525px;
+}
+#melhor P{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 560px;
+}
+#que p{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 580px;
+}
+#como_treinar_seu_dragão p{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 600px;
+}
+
+#isso p{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 700px;
+}
+#aí p{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 720px;
+}
+#mesmo P{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 770px;
+}
+#SIUUU P{
+    font-size: 15px;
+    position: absolute;
+    left: 490px;
+    margin-top: 810px;
+}
+
+.contato{
+    width: 1000px;
+    min-height: 400px;
+    padding: 100px 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.w60{
+    width: 80%;
+    float: left;
+}
+
+.w40{
+    width: 40%;
+    float: left;
+}
+
+#ctt{
+    color: rgb(0, 0, 0);
+    left: 30%;
+    position: relative;
+    top: -5px;
+}
+
+#ctt2{ 
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.material-symbols-outlined{
+    color: white;
+}
+.inf{
+    color: white;
+}
+.formulario{
+    background: #000000;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 200px;
+    padding-left: 00px;
+    width: 100%;
+}
+
+.formulario form{
+    margin-top: 10px;
+    background-color: #000000;
+}
+
+.button_form{
+    width: 425px;
+    height: 50px;
+    background-color: #FFBC4E;
+    font-size: 27px;
+    display: inline-block;
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    border-color: #ffffff00;
+
+}
+
+.formulario input[type=text],
+.formulario input[type=email]{
+    width: 80%;
+    height: 100px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    border-color: #ffffff00;
+    background-color: #000000;
+    color:#FFBC4E;
+    border-color: #FFBC4E;
+    border-width: 5px;
+    padding-left: 50px;
+}
+.formulario input[type=number]{
+    width: 40%;
+    height: 100px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    border-color: #ffffff00;
+    border-width: 5px;
+    background-color: #000000;
+    color:#FFBC4E;
+    border-color: #FFBC4E;
+
+}
+.formulario input[type=date]{
+    width: 320px;
+    height: 100px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    border-color: #ffffff00;
+    margin-top: -125px;
+    position:absolute;
+    left: 51.8%;
+    background-color: #000000;
+    color:#646464;
+    border-color: #FFBC4E;
+    border-width: 5px;
+
+}
+
+.formulario textarea
+{
+    width: 100%;
+    height: 210px;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 15px;
+
+    border-color: #ffffff00;
+
+}
+.formulario textarea:hover,
+.formulario input[type=text]:hover,
+.formulario input[type=email]:hover,
+.formulario input[type=date]:hover,
+.formulario input[type=number]:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+.button-form{
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.button-form button{
+    width: 100%;
+    padding: 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+    color: rgb(255, 255, 255);
+    border: 2px solid #FFBC4E;
+}
+.bnctt{
+    position: relative;
+    width: 85%;
+    height: auto;
+    left: 100px;
+    top: 191px;
+ 
+}
+
+.laranj{
+    background-color: rgb(250, 134, 25);
+    height: 10px;
+    width: 100%;
+    position: absolute;
+    top: 650px;
+}
+
+.laranj2{
+    background-color: rgb(250, 134, 25);
+    height: 10px;
+    width: 100%;
+    position: absolute;
+    top: 1440px;
+}
+
+
+.botao1{
+    width: 250px;
+    padding: 16px 32px;
+    text-decoration: none;
+    background-color: rgb(245, 135, 20);
+    font-size: 17px;
+    display: inline-block;
+    margin-top: 320px;
+    position: relative;
+    text-align: center;
+    left: 820px;
+    top: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+.btn:hover{
+    text-decoration: none;
+    color: rgb(255, 157, 52);
+    background-color: white;
+}
+
+#elon_musk1 img{
+    width: 180px;
+    position: absolute;
+    left: 23%;
+    transition: 500ms ease 100ms;
+    margin-top: 960px;
+}
+
+#elon_musk2 img{
+    width: 180px;
+    position: absolute;
+    left: 38%;
+    transition: 500ms ease 100ms;
+    margin-top: 1000px;
+}
+
+#elon_musk3 img{
+    width: 150px;
+    position: absolute;
+    left: 52%;
+    transition: 500ms ease 100ms;
+    margin-top: 980px;
+}
+
+#elon_musk4 img{
+    width: 180px;
+    position: absolute;
+    left: 64%;
+    transition: 500ms ease 100ms;
+    margin-top: 1000px;
+}
+
+#elon_musk5 img{
+    width: 200px;
+    position: absolute;
+    left: 22.5%;
+    transition: 500ms ease 100ms;
+    margin-top: 1100px;
+}
+
+#elon_musk6 img{
+    width: 220px;
+    position: absolute;
+    left: 37%;
+    transition: 500ms ease 100ms;
+    margin-top: 1190px;
+}
+#elon_musk7 img{
+    width: 200px;
+    position: absolute;
+    left: 51%;
+    transition: 500ms ease 100ms;
+    margin-top: 1190px;
+}
+#elon_musk8 img{
+    width: 170px;
+    position: absolute;
+    left: 64%;
+    transition: 500ms ease 100ms;
+    margin-top: 1200px;
+}
+#elon_musk1 img:hover{
+    width: 190px;
+    
+}
+
+#elon_musk2 img:hover{
+    width: 190px;
+    
+}
+
+#elon_musk3 img:hover{
+    width: 160px;
+    
+}
+
+#elon_musk4 img:hover{
+    width: 190px;
+    
+}
+
+#elon_musk5 img:hover{
+    width: 210px;
+
+}
+
+#elon_musk6 img:hover{
+    width: 230px;
+
+}
+#elon_musk7 img:hover{
+    width: 210px;
+
+}
+#elon_musk8 img:hover{
+    width: 180px;
+
+}
+#bunda{
+    background-color: #000000;
+    width: 12.25%;
+    height: 500px;
+    position: absolute;
+    margin-top: 200px;
+    left: 10%;
+}
+#do{
+    background-color: #FFBC4E;
+    width: 100%;
+    height: 550px;
+    position: absolute;
+    margin-top: 800px;
+    left: 0%;
+}
+#enzo{
+    background-color: #000000;
+    width: 15%;
+    height: 500px;
+    position: absolute;
+    margin-top: 200px;
+    left: 75%;
+}
+#está{
+    background-color: #000000;
+    width: 80%;
+    height: 100px;
+    position: absolute;
+    margin-top: 200px;
+    left: 10%;
+}
+#durinha{
+    background-color: #000000;
+    width: 80%;
+    height: 100px;
+    position: absolute;
+    margin-top: 700px;
+    left: 10%;
+}
+#mano{
+    background-color: #000000;
+    width: 10%;
+    height: 500px;
+    position: absolute;
+    margin-top: 200px;
+    left: 13.8%;
+}
