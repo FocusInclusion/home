@@ -422,7 +422,7 @@ body{
 }
 #Ronaldo p{
     font-size: 19px;
-    left: 100px;
+    left: 6.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
@@ -430,7 +430,7 @@ body{
 }
 #SIUUU p{
     font-size: 19px;
-    left: 100px;
+    left: 6.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
@@ -444,7 +444,7 @@ body{
     color: #FFBC4E;
     position: absolute;
     margin-top: 370px;
-    left: 105px;
+    left: 14%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
 }
@@ -462,7 +462,7 @@ body{
 }
 #Casemiro p{
     font-size: 19px;
-    left: 750px;
+    left: 36.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
@@ -470,7 +470,7 @@ body{
 }
 #Ronaldinho p{
     font-size: 19px;
-    left: 750px;
+    left: 36.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
@@ -484,13 +484,13 @@ body{
     color: #FFBC4E;
     position: absolute;
     margin-top: 370px;
-    left: 755px;
+    left: 41%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
 }
 #Benzema p{
     font-size: 19px;
-    left: 1350px;
+    left: 66.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
@@ -498,11 +498,11 @@ body{
 }
 #Vini_Jr p{
     font-size: 19px;
-    left: 1350px;
+    left: 66.7%;
     position: absolute;
     width: 450px;
     text-align:justify;
-    margin-top: 630px;
+    margin-top: 570px;
 
 }
 
@@ -512,7 +512,267 @@ body{
     color: #FFBC4E;
     position: absolute;
     margin-top: 370px;
-    left: 1355px;
+    left: 72%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify;
 }
+
+#cai{
+    height: 800px;
+    width: 101%;
+    padding-left: -8px;
+    background-color: #ffffff; 
+}
+
+.img1{
+    position: absolute;
+    left: 82%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin-top: 250px;
+    transition: 500ms ease 100ms;
+}
+.img2{
+    position: absolute;
+    left: 62%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin-top: 250px;
+    transition: 500ms ease 100ms;
+}
+.img3{
+    position: absolute;
+    left: 42%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin-top: 250px;
+    transition: 500ms ease 100ms;
+}
+.img4{
+    position: absolute;
+    left: 22%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin-top: 250px;
+    transition: 500ms ease 100ms;
+}
+.img5{
+    position: absolute;
+    left: 2%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin-top: 250px;
+    transition: 500ms ease 100ms;
+}
+
+.img1:hover{
+    
+   opacity: 0%;
+ }
+ .img2:hover{
+    
+   opacity: 0%;
+  }
+  .img3:hover{
+    
+    opacity: 0%;
+}
+.img4:hover{
+   
+    opacity: 0%;
+}
+.img5:hover{
+    
+    opacity: 0%;
+}
+
+div.tres {
+    width: 30px;
+    height: 140px;
+    border: 150px solid;
+    border-color: #FFBC4E;
+    position: absolute;
+    left: 81.2%;
+    margin-top: 230px;
+}
+div.tresinho {
+    width: 30px;
+    height: 140px;
+    border: 150px solid;
+    border-color: #FFBC4E;
+    position: absolute;
+    left: 61.2%;
+    margin-top: 230px;
+}
+div.tresão {
+    width: 30px;
+    height: 140px;
+    border: 150px solid;
+    border-color: #FFBC4E;
+    position: absolute;
+    left: 41.2%;
+    margin-top: 230px;
+}
+div.tressin {
+    width: 30px;
+    height: 140px;
+    border: 150px solid;
+    border-color: #FFBC4E;
+    position: absolute;
+    left: 21.2%;
+    margin-top: 230px;
+}
+
+div.TRES {
+    width: 30px;
+    height: 140px;
+    border: 150px solid;
+    border-color: #FFBC4E;
+    position: absolute;
+    left: 1.2%;
+    margin-top: 230px;
+}
+#Homelander p{
+    position: absolute;
+    left: 44.2%;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 575px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 20px;
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0, 0.800));
+
+}
+#Eminem p{
+    position: absolute;
+    left: 22.3%;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 575px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 20px;
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0, 0.800));
+
+}
+
+#Shazam p{
+    position: absolute;
+    left: 4.2%;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 575px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 20px;
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0, 0.800));
+
+}
+#Rock p{
+    position: absolute;
+    left: 64.3%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 575px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 20px;
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0, 0.800));
+
+}
+#Deadpool p{
+    position: absolute;
+    left: 83.5%;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 575px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 20px;
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0, 0.800));
+
+}
+
+
+#ui p{
+    position: absolute;
+    left: 44.5%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 620px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+}
+#uii p{
+    position: absolute;
+    left: 25.3%;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 620px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 18px;
+    width: 180px;
+    text-align: center;
+}
+
+#uiiii p{
+    position: absolute;
+    left: 5%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 620px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 18px;
+    width: 180px;
+    text-align: center;
+
+}
+#uiiiii p{
+    position: absolute;
+    left: 65%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 620px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 18px;
+    width: 180px;
+    text-align: center;
+}
+
+#uiiiiii p{
+    position: absolute;
+    left: 85.5%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 620px;
+    transition: 500ms ease 100ms;
+    font-weight: bold;
+    font-size: 18px;
+    width: 160px;
+    text-align: center;
+}
+
