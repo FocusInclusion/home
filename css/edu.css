@@ -327,6 +327,17 @@ color: white;
     list-style-type: none;
     padding-right: 70px;
 }
+#rachamos-o-bico-DEMAIS-slk p{
+    color: black;
+    font-size: 50px;
+    transition: 500ms ease 100ms;
+    margin-top: 65px;
+    padding-left: 45%;
+    font-weight: bold;
+    position: absolute;
+    filter: drop-shadow(5px 5px 5px rgb(255, 255, 255));
+
+}
 #dinheiro1 img{
     width: 70px;
     position: absolute;
