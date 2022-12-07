@@ -827,5 +827,14 @@ color: white;
     position: absolute;
 
 }
+#lingua img{
+    object-fit: cover;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 1%;
+    transition: 500ms ease 100ms;
+    margin-top: 30px;
+}
 
 
