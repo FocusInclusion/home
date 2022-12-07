@@ -415,6 +415,10 @@ color: white;
     background-attachment: scroll;
     overflow: hidden;
 }
+#ceguinho audio{
+    position: absolute;
+    margin-top: 30px;
+}
 #ii p{
     font-size: 110px;
     width: 700px;
