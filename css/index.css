@@ -417,7 +417,9 @@ color: white;
 }
 #ceguinho audio{
     position: absolute;
-    margin-top: 30px;
+    margin-top: 40px;
+    left: 3%;
+    
 }
 #ii p{
     font-size: 110px;
